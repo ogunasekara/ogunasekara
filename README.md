@@ -1,16 +1,16 @@
-### Hi there 👋
+### Howdy, I'm Oshadha! 👋
 
-<!--
-**ogunasekara/ogunasekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer based in Madison, Wisconsin.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently searching for a full-time robotics software position based in Boston, MA
+- ⚙️ I am a full-stack engineer who is comfortable working in various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
+- 🏫 Majored in Electrical & Computer Engineer with an additional major in Robotics at Carnegie Mellon University.
+- 🌍 I have worked at: **Carnegie Mellon, University of Arizona, Epic Systems, and Indeed**
+- 🌱 Learning more about and studying: **Probabilistic Localization methods, C++, General Algorithms**
+- 💬 Ping me about: **backend engineering**, **mobile robot localization**, **leetcode**
+- 🧩 Interests: Puzzles, coffee, and learning to cook new dishes!
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oshadhagunasekara/)
+- 🌐 Occasionally updating my personal website [ogunasekara.github.io](https://ogunasekara.github.io/)
