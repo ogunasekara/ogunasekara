@@ -9,7 +9,6 @@
 - 🌱 Learning more about and studying: **probabilistic localization methods, c++, general algorithms**
 - 💬 Ping me about: **backend engineering**, **mobile robot localization**, **leetcode**
 - 🧩 Interests: Puzzles, coffee, running, and learning to cook new dishes!
-- 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oshadhagunasekara/)
