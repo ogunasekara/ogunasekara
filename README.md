@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer based in Madison, Wisconsin.
 
-- 🏢 I'm currently searching for a full-time robotics software position based in Boston, MA
+- 🏢 I'm currently searching for a full-time software engineer position, remote or onsite based in Boston, MA.
 - ⚙️ I am a full-stack engineer who is comfortable working in various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
 - 🏫 Majored in Electrical & Computer Engineer with an additional major in Robotics at Carnegie Mellon University.
 - 🌍 I have worked at: **Carnegie Mellon University, University of Arizona, Epic Systems, and Indeed**
