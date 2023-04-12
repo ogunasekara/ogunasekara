@@ -1,6 +1,6 @@
 ### Howdy, I'm Oshadha! 👋
 
-#### I'm a Full-Stack Developer based in Madison, Wisconsin.
+#### I'm a Full-Stack Developer currently based in Madison, Wisconsin.
 
 - 🏢 I'm currently searching for a full-time software engineer position, remote or onsite based in Boston, MA.
 - ⚙️ I am a full-stack engineer who is comfortable working in various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
