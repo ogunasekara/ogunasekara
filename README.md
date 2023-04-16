@@ -3,13 +3,12 @@
 #### I'm a Full-Stack Developer currently based in Madison, Wisconsin.
 
 - 🏢 I'm currently searching for a full-time software engineer position, remote or onsite based in Boston, MA.
-- ⚙️ I am a full-stack engineer who is comfortable working in various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
-- 🏫 Majored in Electrical & Computer Engineer with an additional major in Robotics at Carnegie Mellon University.
-- 🌍 I have worked at: **Carnegie Mellon University, University of Arizona, Epic Systems, and Indeed**
-- 🌱 Learning more about and studying: **probabilistic localization methods, c++, general algorithms**
-- 💬 Ping me about: **backend engineering**, **mobile robot localization**, **leetcode**
-- 🧩 Interests: Puzzles, coffee, running, and learning to cook new dishes!
+- ⚙️ I'm a full-stack engineer comfortable working with various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
+- 🏫 I majored in Electrical & Computer Engineer with an additional major in Robotics at Carnegie Mellon University.
+- 💼 I've worked at: **Carnegie Mellon University, University of Arizona, Epic Systems, and Indeed**
+- 📚 I'm currently exploring: **Low-Level Languages (C++, Rust, etc.), Robotics, LLMs**
+- 🧩 Apart from tech, I'm interested in: **Puzzles, Pourover Brewing, Running, and Cooking**
 
 #### Find me around the web 🌎:
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oshadhagunasekara/)
-- 🌐 Occasionally updating my personal website [ogunasekara.github.io](https://ogunasekara.github.io/)
+- 🌐 Check out my [Personal Website](https://ogunasekara.github.io/)
