@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer currently based in Madison, Wisconsin.
 
-- 🏢 I'm currently searching for a full-time software engineer position.
+- 🏢 I'm currently skilling up for a robotics software engineering position.
 - ⚙️ I'm a full-stack engineer comfortable working with various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
 - 🏫 I majored in Electrical & Computer Engineering with an additional major in Robotics at Carnegie Mellon University.
 - 💼 I've worked at: **Carnegie Mellon University, University of Arizona, Epic Systems, and Indeed**
