@@ -7,7 +7,7 @@
 - 🏫 I majored in Electrical & Computer Engineering with an additional major in Robotics at Carnegie Mellon University.
 - 💼 I've worked at: **Carnegie Mellon University, University of Arizona, Epic Systems, and Indeed**
 - 📚 I'm currently exploring: **Low-Level Languages (C++, Rust, etc.), Robotics, LLMs**
-- 🧩 Apart from tech, I'm interested in: **Puzzles, Pourover Brewing, Running, and Cooking**
+- 🧩 Apart from tech, I'm interested in: **Puzzles, Pourover Coffee Brewing, Running, and Cooking**
 
 #### Find me around the web 🌎:
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oshadhagunasekara/)
