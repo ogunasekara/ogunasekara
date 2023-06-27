@@ -1,6 +1,6 @@
 ### Howdy, I'm Oshadha! 👋
 
-#### I'm a Full-Stack Developer currently based in Madison, Wisconsin.
+#### I'm a Full-Stack Developer currently based in Phoenix, Arizona.
 
 - 🏢 I'm currently skilling up for a robotics software engineering position.
 - ⚙️ I'm a full-stack engineer comfortable working with various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
