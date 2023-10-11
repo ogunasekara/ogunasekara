@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Software Engineer currently based in Phoenix, Arizona.
 
-- 🏢 Unfortunately, my position was impacted by the 2023 tech layoffs, however I am using this change as an opportunity to explore my hobbies, new technologies, and fill any knowledge gaps I encounter in doing so.
+- 🏢 Unfortunately, my position was impacted by the 2023 tech layoffs, however I am using this change as an opportunity to skill up and pivot into a robotics software engineering position.
 - ⚙️ I'm a full-stack software engineer comfortable working with various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
 - 🏫 I majored in Electrical & Computer Engineering with an additional major in Robotics at **Carnegie Mellon University**.
 - 💼 I've worked at: **Carnegie Mellon University, University of Arizona, Epic Systems, and Indeed**
