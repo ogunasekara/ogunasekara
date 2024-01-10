@@ -1,4 +1,4 @@
-### Howdy, I'm Oshadha! 👋
+### Hey, I'm Oshadha! 👋
 
 #### I'm a Full-Stack Software Engineer currently based in Phoenix, Arizona.
 
