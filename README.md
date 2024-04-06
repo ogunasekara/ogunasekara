@@ -1,8 +1,8 @@
 ### Hey, I'm Oshadha! 👋
 
-#### I'm a Full-Stack Software Engineer currently based in Phoenix, Arizona.
+#### I'm a Full-Stack Software Engineer currently based in Seattle, Washington.
 
-- 🏢 I am currently in the process of searching for a new full-time position.
+- 🏢 I am currently working as a SDE II at Amazon.
 - ⚙️ I'm a full-stack software engineer comfortable working with various languages including: `python`, `c++`, `java`, `c#`, `html/css`, `typescript/javascript`
 - 🏫 I majored in Electrical & Computer Engineering with an additional major in Robotics at **Carnegie Mellon University**.
 - 💼 I've worked at: **Carnegie Mellon University, University of Arizona, Epic Systems, and Indeed**
